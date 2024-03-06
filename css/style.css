@@ -1,0 +1,41 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0; /*Remove as margens e preenchimentos padrão do corpo do documento para garantir um layout mais consistente.*/
+    padding: 0; /*Remove as margens e preenchimentos padrão do corpo do documento para garantir um layout mais consistente.*/
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px; /*Adiciona um preenchimento interno ao cabeçalho*/
+}
+
+header h1 {
+    margin: 0; /*Remove as margens e preenchimentos padrão do corpo do documento para garantir um layout mais consistente.*/
+}
+
+header p {
+    margin: 5px 0; /*Adiciona margens ao redor dos parágrafos dentro do cabeçalho.*/
+}
+
+section {
+    background-color: #fff;
+    margin: 20px; /*Adiciona margens e preenchimento interno às seções do currículo.*/
+    padding: 15px; /*Adiciona margens e preenchimento interno às seções do currículo.*/
+    border-radius: 5px; /*Adiciona bordas arredondadas às seções.*/
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /*Adiciona uma sombra sutil às seções.*/
+}
+
+h2 {
+    color: #333;
+}
+
+h3 {
+    color: #555;
+}
+
+p {
+    margin: 10px 0; /*Adiciona margens aos parágrafos dentro das seções*/
+}
